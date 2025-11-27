@@ -2,6 +2,7 @@ public abstract class Car {
     double price;
     int year;
 
+    // Ahliman
     protected Car(double price, int year) {
         this.price = price;
         this.year = year;
